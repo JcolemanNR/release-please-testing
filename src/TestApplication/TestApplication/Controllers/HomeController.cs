@@ -16,6 +16,7 @@ namespace TestApplication.Controllers
         public IActionResult Index()
         {
             return View();
+            // Fake security fix
         }
 
         public IActionResult Privacy()
