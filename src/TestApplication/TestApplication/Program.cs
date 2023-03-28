@@ -3,6 +3,7 @@ namespace TestApplication
     public class Program
     {
         // Hypothetical security fix
+        // Hypothetical bug fix
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
