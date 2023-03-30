@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: google-github-actions/release-please-action@v3
         with:
-          release-type: ruby
+          release-type: go
           changelog-path: CHANGELOG.md
           token: ${{ secrets.GITHUB_TOKEN }}
           changelog-types: '[{"type":"feat","section":"New Features","hidden":false},{"type":"fix","section":"Fixes","hidden":false},{"type":"sec","section":"Security","hidden":false}]'
