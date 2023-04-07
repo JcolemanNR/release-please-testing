@@ -4,6 +4,36 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.0.0](https://github.com/JcolemanNR/release-please-testing/compare/v1.1.0...v2.0.0) (2023-04-07)
+
+
+### ⚠ BREAKING CHANGES
+
+* Faking another breaking change
+* Why it's a breaking change
+
+### New Features
+
+* a breaking change ([d0cce1d](https://github.com/JcolemanNR/release-please-testing/commit/d0cce1d4e74933f03dff11460755fb450b3e045b))
+* A new feature ([cb05a11](https://github.com/JcolemanNR/release-please-testing/commit/cb05a114165805361848912cd51a1a90eee1271b))
+* A new feature with a lot of text that's too long to fit in the header. It's a very complicated feature that requires a bunch of explanation and some links to documentation. ([7d1e522](https://github.com/JcolemanNR/release-please-testing/commit/7d1e5229a66633c4452e50c72869be0a7df13345))
+* Faking another breaking change ([708cb21](https://github.com/JcolemanNR/release-please-testing/commit/708cb21ed515a037c60837a5d4c462551f746240))
+* **subfeature:** Another related feature ([cb05a11](https://github.com/JcolemanNR/release-please-testing/commit/cb05a114165805361848912cd51a1a90eee1271b))
+* **subfeature:** Related new feature ([cb05a11](https://github.com/JcolemanNR/release-please-testing/commit/cb05a114165805361848912cd51a1a90eee1271b))
+
+
+### Fixes
+
+* Allow StackExchange.Redis v2+ profiling to start outside of a transaction. ([#1501](https://github.com/JcolemanNR/release-please-testing/issues/1501) ) ([70b86d5](https://github.com/JcolemanNR/release-please-testing/commit/70b86d5300285e0b59a7245aff514edd31456442))
+* Allow StackExchange.Redis v2+ profiling to start outside of a transaction. ([#1501](https://github.com/JcolemanNR/release-please-testing/issues/1501) ) ([816df5c](https://github.com/JcolemanNR/release-please-testing/commit/816df5c89066903170b0efe7fa5255b3851fa2ae))
+* Allow StackExchange.Redis v2+ profiling to start outside of a transaction. ([#1501](https://github.com/JcolemanNR/release-please-testing/issues/1501)) ([438dcfe](https://github.com/JcolemanNR/release-please-testing/commit/438dcfe13bc338e4a602c44ef36435ea455e19ce))
+* bleep ([662eef2](https://github.com/JcolemanNR/release-please-testing/commit/662eef2b0a67eedc6cddd9d3ef75361732340acc))
+* Fix a memory leak when using StackExchange.Redis v2+. ([#1473](https://github.com/JcolemanNR/release-please-testing/issues/1473)) ([70b86d5](https://github.com/JcolemanNR/release-please-testing/commit/70b86d5300285e0b59a7245aff514edd31456442))
+* Fix a memory leak when using StackExchange.Redis v2+. ([#1473](https://github.com/JcolemanNR/release-please-testing/issues/1473)) ([816df5c](https://github.com/JcolemanNR/release-please-testing/commit/816df5c89066903170b0efe7fa5255b3851fa2ae))
+* Fix a memory leak when using StackExchange.Redis v2+. ([#1473](https://github.com/JcolemanNR/release-please-testing/issues/1473)) ([438dcfe](https://github.com/JcolemanNR/release-please-testing/commit/438dcfe13bc338e4a602c44ef36435ea455e19ce))
+* Fix some bug ([85f942a](https://github.com/JcolemanNR/release-please-testing/commit/85f942a5d5ab300bceb639c72b9e56f56b8f76b4))
+* This is the real fix! ([1ea98f9](https://github.com/JcolemanNR/release-please-testing/commit/1ea98f9705daf0d3fedc6bd009b2fd3926ce16ad))
+
 ## [1.1.0](https://github.com/JcolemanNR/release-please-testing/compare/v1.0.0...v1.1.0) (2023-03-28)
 
 
